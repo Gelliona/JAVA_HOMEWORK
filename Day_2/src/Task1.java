@@ -15,7 +15,6 @@ public class Task1 {
         for ( int i = 0; i < newText.length; i++ ) {
 
             String[] string3 = newText[i].split(":");
-            System.out.printf("%s = %s\n", string3[0], string3[1]);
 
             if (!string3[1].equals("\"null\"")) {
                 if (i > 0)
