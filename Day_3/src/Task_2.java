@@ -13,7 +13,7 @@ public class Task_2 {
         double sum = MyList.stream().mapToInt(a -> a).sum();
 
         System.out.printf("Минимальное значение списка - %s\n",Collections.min(MyList));
-        System.out.printf("Минимальное значение списка - %s\n",Collections.max(MyList));
+        System.out.printf("Мaксимальное значение списка - %s\n",Collections.max(MyList));
         System.out.printf("Cреднее значение списка - %s",sum/10);
 
 
