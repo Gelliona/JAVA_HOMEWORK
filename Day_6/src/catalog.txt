@@ -1,0 +1,7 @@
+1, ASUS, Vivobook 15 V5200, 15, IPS, 8, 512, Windows10, silver, 43990
+2, ASUS, A516JP-EJ461, 15.6, TN, 16, 512, Windows10, silver, 55990
+3, Lenovo, V14-ADA, 14, TN, 8, 256, Windows10, grey, 31990
+4, Apple, MacBook Pro A2338, 13.3, IPS, 8, 512, MacOS, grey, 114990
+5, Lenovo, IdeaPad 3 15ITL6, 15.6, TN, 4, 256, none, black, 37990
+6, Apple, MacBook Air A2681, 13.6, IPS, 8, 256, MacOS, grey, 119490
+7, Huawei, MateBook D 15 BoDE-WDH9, 15.6, IPS, 8, 512, Windows11, silver, 49990
